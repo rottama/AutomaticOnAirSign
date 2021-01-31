@@ -1,5 +1,7 @@
 # An automatic "On Air" sign
 
+![office](https://i.imgur.com/BroIVzk.jpeg)
+
 The room in which we are working from home is often just a repurposed room - and the people you share your living space with might still need infrequent access. But is it OK to enter right now? To eliminate any guesswork before entering your makeshift office, and to make life easier for everyone involved, here's an automated sign that lights up automatically when you're in a meeting call.
 
 ## Shopping list
