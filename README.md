@@ -12,7 +12,7 @@ The room in which we are working from home is often just a repurposed room - and
 
 1. Install your sign and WiFi socket in your preferred location.
 2. Configure the WiFi socket to connect to your network as per these instructions: https://tasmota.github.io/docs/Getting-Started/#initial-configuration
-3. Build the _IstheMicInuse_ app from the source code in this repository, or use the precompiled executables from the latest [IsTheMicInUse Release]().
+3. Build the _IstheMicInuse_ app from the source code in this repository, or use the precompiled executables from the latest [IsTheMicInUse Release](https://github.com/rottama/AutomaticOnAirSign/releases/download/latest/IsTheMicInUse.zip).
    - Edit the _IsTheMicInUse.config_ file and set the parameter _TasmotaHostname_  to the name of your WiFi socket obtained from step 2 (e.g. _delock-2759_).
    - Right-click _IstheMicInUse.exe_ and select _Properties_ -> _Unblock_ because you downloaded the executable from the internet.
 4. Try it out
